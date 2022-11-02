@@ -13,6 +13,8 @@ I've created a **Dockerfile** with following steps:
 4. Actually, it's copying everything except the things you put in **.dockerignore** file
 5. Running my python app
 
+Check out https://hub.docker.com/_/alpine
+
 In **app.py** I simply run Flask app
 
 Commands I used for building image and getting files to the Github are in **commands.txt**
