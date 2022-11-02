@@ -1,0 +1,19 @@
+docker build -t flask-app .
+
+docker run -p 5000:5000 flask-app
+
+docker ps
+
+docker stop [container name]
+
+---------------------------------
+
+git init
+
+git add .
+
+git commit -m "Hello world Flask app - Dockerized"
+
+git remote add origin https://github.com/masaa96/first-flask-app.git
+
+git push -u origin master
