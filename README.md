@@ -1,4 +1,5 @@
 # First-flask-app
+
 This is my first dockerized Flask app! :)
 
 In **requirements.txt** I specified the Flask version I want to use.
@@ -13,5 +14,7 @@ I've created a **Dockerfile** with following steps:
 5. Running my python app
 
 In **app.py** I simply run Flask app
+
+Commands I used for building image and getting files to the Github are in **commands.txt**
 
 You can see printed text in browser http://0.0.0.0:5000/
