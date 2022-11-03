@@ -17,6 +17,6 @@ Check out https://hub.docker.com/_/alpine
 
 In **app.py** I simply run Flask app
 
-Commands I used for building image and getting files to the Github are in **commands.txt**
+Commands I used for building image are in **commands.txt**
 
 You can see printed text in browser http://0.0.0.0:5000/
