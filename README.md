@@ -1,4 +1,4 @@
-# First-flask-app
+# Dockerized flask app - for Linux users
 
 This is my first dockerized Flask app! :)
 
