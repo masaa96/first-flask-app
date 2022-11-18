@@ -1,4 +1,4 @@
-# Dockerized flask app - for Linux users
+# Dockerized flask app
 
 This is my first dockerized Flask app! :)
 
@@ -13,7 +13,7 @@ I've created a **Dockerfile** with following steps:
 4. Actually, it's copying everything except the things you put in **.dockerignore** file
 5. Running my python app
 
-Check out https://hub.docker.com/_/alpine
+Check out https://hub.docker.com/_/alpine - Linux env
 
 In **app.py** I simply run Flask app
 
